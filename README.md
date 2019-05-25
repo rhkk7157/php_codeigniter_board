@@ -1,2 +1,3 @@
 # php_codeigniter_file_upload
-file upload, add comments
+파일업로드, 댓글 대댓글, 이메일인증 (phpmailer)
+view file list, 
